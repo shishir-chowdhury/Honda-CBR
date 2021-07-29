@@ -7,3 +7,9 @@
     padding: 10px 40px;
     border-radius: 5px;
 }
+.bike-img img{
+    width: 100%;
+}
+.gray-img img{
+    filter: grayscale(100%);
+}
