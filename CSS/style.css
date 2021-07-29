@@ -13,3 +13,20 @@
 .gray-img img{
     filter: grayscale(100%);
 }
+.clints-img img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+.fa-star{
+    font-size: 12px;
+}
+.fa-star.filled{
+    color: #E76F51;
+}
+.fa-star.empty{
+    color: #AEAEAE;
+}
+    
