@@ -1,3 +1,9 @@
+/***************
+    CSS Style
+ ***************/
+ /******************
+     Hero Section
+ *******************/
 .honda-header{
     background-color: #264653;
 }
@@ -7,12 +13,19 @@
     padding: 10px 40px;
     border-radius: 5px;
 }
+/*************************
+   Featured Bike Section 
+ *************************/
 .bike-img img{
     width: 100%;
 }
+
 .gray-img img{
     filter: grayscale(100%);
 }
+/*************************
+   Happy Clients Section 
+ *************************/
 .clints-img img{
     width: 50%;
     display: block;
